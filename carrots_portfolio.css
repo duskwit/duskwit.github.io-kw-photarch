@@ -128,6 +128,12 @@ nav ul li:hover{
 .showwork img{
 	width:12%;
 }
+#gallery{
+	padding-top: 100px;
+}
+#achievements{
+	padding-top: 20px;
+}
 .gallery{
 	width: 100%;
 	margin: 70px auto;
@@ -173,7 +179,7 @@ nav ul li:hover{
 
 .bouncy_button {
       text-align:center;
-      margin:-60px auto 90px;
+      margin:-60px auto 0;
       width:100%;
       font-weight: 900;
       letter-spacing: -0.8px;
@@ -373,7 +379,7 @@ nav ul li:hover{
 		width:30%;
 	}
 	.bouncy_button {
-      	margin:-130px auto 90px;
+      	margin:-130px auto 0px;
 	}
 	.achievements_title img{
 		width:30%;
