@@ -7,7 +7,7 @@
 		var bca = [
 		    '<img src="ach/ach1.jpg" /> <p><b>Honorable mention</b> in the competition<br> <b>Budowle Dolnego Śląska 2005-2016</b><br>Edition I, Wrocław 2016<br>Dolnośląska Okręgowa Izba Inżynierów Budownictwa</p>',
 		    '<img src="ach/ach0.jpg" /> <p><b>Second award</b> in the competition<br> <b>Kadry Modernizmu 2016</b><br> Edition VI, Przestrzeń dla piękna<br> Stowarzyszenie Architektów Polskich WROCŁAW </p>',
-			'<img src="ach/ach3.jpg" /> <p><b>First award</b> in the competition<br> <b>Kadry Modernizmu 2014</b> <br>Edition IV, Miasto w ruchu<br> Stowarzyszenie Architektów Polskich WROCŁAW</p>',
+			'<img src="ach/ach3.jpg" /> <p><b>First award</b> in the competition<br> <b>Kadry Modernizmu 2014</b> <br>Edition IV, Miasto w ruchu<br> Stowarzyszenie Architektów Polskich WROCŁAW</p>'
 		];
 		// This function is triggered by the bubbleSlide() function below
 		function bubbles(bi){
